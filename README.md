@@ -3,11 +3,15 @@
 The code is mainly based on [Ray Tracing: The Next Week](https://github.com/petershirley/raytracingthenextweek).
 
 ### There are some important features:
-* 3 different meterial types with adjustable parameters
-* texture map for sphere and cube
+* 3 types of material with adjustable parameters
+* texture map for basic objects
 * ray tracing for imported .obj model (Moller-Trumbore algorithm and Phong shading)
+* all of the objects (sphere, rectangle, cube and model) can be translated and rotated
 
 ### Output images:
-![scene1 with global light](https://github.com/pielet/ray-tracing/blob/master/image/scene1.jpg)
-![scene1 with rectangular light](https://github.com/pielet/ray-tracing/blob/master/image/scene1_light.jpg)
-![bunny with global light](https://github.com/pielet/ray-tracing/blob/master/image/bunny.jpg)
+
+<img src="https://github.com/pielet/ray-tracing/blob/master/image/scene1.jpg" width="500">
+
+<img src="https://github.com/pielet/ray-tracing/blob/master/image/scene1_light.jpg" width="500">
+
+<img src="https://github.com/pielet/ray-tracing/blob/master/image/bunny.jpg" width="500">
